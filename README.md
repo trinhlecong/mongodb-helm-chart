@@ -26,7 +26,7 @@ To install this Helm chart, follow these steps:
 2. Navigate to the chart directory:
 
    ```bash
-   cd MongoDB-Helm-Chart
+   cd mongodb-helm-chart
    ```
 
 3. Customize the values in the values.yaml file according to your requirements.
